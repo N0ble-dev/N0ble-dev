@@ -1,10 +1,6 @@
 
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif">
 
-<h1 align="center">Hi 👋, I'm Nabil Mohamed</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nn&label=Profile%20views&color=0e75b6&style=flat" alt="nn" /> </p>
 
 <h1 align="center">Hi 👋, I'm Nabil Mohamed</h1>
 <h3 align="center">A passionate frontend developer</h3>
