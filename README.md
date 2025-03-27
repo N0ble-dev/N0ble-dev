@@ -15,7 +15,8 @@
 <a href="https://fb.com/nabil mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nabil mohamed" height="30" width="40" /></a>
 </p>
 
-### Languages & Frameworksdiv align="left">
+### Languages & Frameworks
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" style="margin: 1rem; width: 40px; height: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" style="margin: 10px; width: 40px; height: 40px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo" style="margin: 10px; width: 40px; height: 40px;"/>
