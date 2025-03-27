@@ -27,7 +27,7 @@
 
 </div>
 
-  ![Top Langs]([https://api.githubtrends.io/user/svg/N0ble-dev/langs?theme=dark](https://api.githubtrends.io/user/svg/N0ble-dev/langs?time_range=one_year&theme=dark))
+  ![Top Langs]([https://api.githubtrends.io/user/svg/N0ble-dev/langs?time_range=one_year&theme=dark])
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
