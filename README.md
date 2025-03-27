@@ -1,13 +1,8 @@
+# Nabil Mohamed _(Software Engineer)_
 
+Mainly a Front-end developer developer  
+Currently part of [@IEEEManCSC](https://github.com/IEEE-ManCSC), [@CATReloaded](https://github.com/catreloaded)
 
-
-
-<h1 align="center">Hi 👋, I'm Nabil Mohamed</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nn&label=Profile%20views&color=0e75b6&style=flat" alt="nn" /> </p>
-
-- 📫 How to reach me **nabilmohaed46@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,6 +32,9 @@
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0ble-dev&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nn&label=Profile%20views&color=0e75b6&style=flat" alt="nn" /> </p>
+
 
 </td></tr></table>  
 
