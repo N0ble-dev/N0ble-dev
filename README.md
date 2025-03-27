@@ -33,10 +33,10 @@ Currently part of [@IEEEManCSC](https://github.com/IEEE-ManCSC), [@CATReloaded](
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0ble-dev&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nn&label=Profile%20views&color=0e75b6&style=flat" alt="nn" /> </p>
 
 
 </td></tr></table>  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nn&label=Profile%20views&color=0e75b6&style=flat" alt="nn" /> </p>
 
 
