@@ -1,13 +1,13 @@
 # Nabil Mohamed _(Software Engineer)_
 
-Mainly a Front-end developer developer  
+Mainly a Front-end developer  
 Currently part of [@IEEEManCSC](https://github.com/IEEE-ManCSC), [@CATReloaded](https://github.com/catreloaded)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nabil mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil mohamed" height="30" width="40" /></a>
-<a href="https://fb.com/nabil mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nabil mohamed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/n0ble-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil mohamed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1AERdr9vSC/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nabil mohamed" height="30" width="40" /></a>
 </p>
 
 ### Languages & Frameworks
