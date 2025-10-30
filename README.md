@@ -22,7 +22,6 @@ Currently part of [@IEEEManCSC](https://github.com/IEEE-ManCSC), [@CATReloaded](
 
 </div>
 
-  ![Top Langs](https://api.githubtrends.io/user/svg/N0ble-dev/langs?time_range=one_year&theme=dark)
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
