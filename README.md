@@ -31,7 +31,7 @@ Software Engineer with experience building scalable web applications. Expert in 
 
 * <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="30" /> **LinkedIn:** [n0ble-dev](https://www.linkedin.com/in/n0ble-dev)
 *  <img src="https://cdn.simpleicons.org/gmail" alt="Email" height="20" width="30" /> **Email:** [nabil.mohamed.dev7@gmail.com](mailto:nabil.mohamed.dev7@gmail.com)
-* <img src="https://cdn.simpleicons.org/googlechrome" alt="Portfolio" height="30" width="40" /> **Portfolio:** [nabil7.site](https://nabil7.site)
+* <img src="https://cdn.simpleicons.org/googlechrome" alt="Portfolio" height="20" width="30" /> **Portfolio:** [nabil7.site](https://nabil7.site)
 
 
 ## Github Stats  
